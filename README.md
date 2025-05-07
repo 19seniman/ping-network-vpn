@@ -11,7 +11,7 @@ An automated bot for the Ping Network VPN service to earn points and potentially
 ## Installation 🛠️
 
 1.git clone https://github.com/19seniman/ping-network-vpn.git
-cd PingNetwork-Auto-Bot
+cd ping-network-vpn
 
 2.npm install
 
