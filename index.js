@@ -26,7 +26,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`   Ping Network Auto Bot - Airdrop Insiders`);
+    console.log(`   19Seniman for Insider`);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
