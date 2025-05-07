@@ -8,6 +8,17 @@ An automated bot for the Ping Network VPN service to earn points and potentially
 - npm/yarn
 - Git
 
+create an account on the project:
+🃏Ping Network VPN Depin On Solana Network | New Airdrop 
+
+➡️ Download Apk : https://download.pingnetwork.io/
+▶️ Download Extension : https://chromewebstore.google.com/detail/geeedmdpncfeomhgbjeafcahepjelimg?utm_source=item-share-cb
+
+🔲 Login with email/Google
+🔲 Claim Bonus 50 Point : 8MBW73
+🔲 click  Tap to Connect 
+✅ Done
+
 ## Installation 🛠️
 
 1.git clone https://github.com/19seniman/ping-network-vpn.git
