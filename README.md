@@ -20,8 +20,8 @@ cd ping-network-vpn
 masukan user.id & device id dengan format dibawah ini:
 
 USER_ID=
+
 DEVICE_ID= 
-## Usage 🚀
 
 4.jalankan :
 node index.js
