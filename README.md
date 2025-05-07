@@ -18,7 +18,7 @@ create an account on the project:
 
 🔲 Login with email/Google
 
-🔲 Claim Bonus 50 Point : 8MBW73
+🔲 Claim Bonus 50 Point input code: 8MBW73
 
 🔲 click  Tap to Connect
 
