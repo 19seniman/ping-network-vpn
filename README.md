@@ -22,7 +22,7 @@ masukan user.id & device id dengan format dibawah ini:
 USER_ID=
 
 DEVICE_ID= 
-
+simpan dengan ctrl+x dan y
 4.jalankan :
 node index.js
 
