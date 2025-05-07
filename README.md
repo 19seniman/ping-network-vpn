@@ -19,6 +19,7 @@ cd ping-network-vpn
 3.nano.env
 masukan user.id & device id dengan format dibawah ini:
 USER_ID=
+
 DEVICE_ID= 
 ## Usage 🚀
 
