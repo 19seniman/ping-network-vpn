@@ -45,7 +45,10 @@ simpan dengan ctrl+x dan y
 4.jalankan :
 node index.js
 
+note: kalau eror jgn lupa git pull
+
 trakter cofee :
+
 melalui jaringan evm ( eth,polygon,bnb,usdt ):  0xf01fb9a6855f175d3f3e28e00fa617009c38ef59
 
 via dana : 085830000502
