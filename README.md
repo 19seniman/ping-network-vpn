@@ -17,7 +17,7 @@ cd ping-network-vpn
 2.npm install
 
 
-3.nano.env
+3.nano .env
 masukan user.id & device id dengan format dibawah ini:
 
 USER_ID=
